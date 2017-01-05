@@ -261,6 +261,10 @@ ENV/
 
 # End of https://www.gitignore.io/api/node,django,sublimetext,codekit,windows,macos,virtualenv,python
 
+
+#ENVARIOMENT VARS
+sendgrid.env
+
 ### Static Root Files
 
 static_cdn
